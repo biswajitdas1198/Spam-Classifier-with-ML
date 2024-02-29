@@ -1,1 +1,1 @@
-# Spam-Classifier-with-ML
+# SpamClassifier
